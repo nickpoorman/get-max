@@ -2,7 +2,7 @@
 
 Get the maximum of two numbers that works the way you would expect.
 
-It takes two numbers and returns the greater of the two. Thats it.
+It takes two anything and returns the greater number of the two. Thats it.
 
 ## example
 
