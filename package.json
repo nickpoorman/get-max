@@ -1,6 +1,6 @@
 {
   "name": "get-max",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get the maximum of two numbers that works the way you would expect.",
   "main": "index.js",
   "scripts": {
