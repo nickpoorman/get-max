@@ -25,7 +25,7 @@ getMax(); // undefined
 
 Getting the maximum of a number and garbage should be simple. It's a number that should be returned.
 
-This example would normally require you to initialize `num=10` if you were to use `Math.max`.
+This example would normally require you to initialize `num=0` if you were to use `Math.max`.
 
 ```
 var num;
